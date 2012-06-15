@@ -1,4 +1,5 @@
 jquery-live-search-plugin
 =========================
 
-jQuery Live Search Plugin
+The jQuery Live Search Plugin is a jQuery plugin designed to create the "search and create" type of textbox as found on the site quora.com.
+
